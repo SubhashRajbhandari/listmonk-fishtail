@@ -1,0 +1,9 @@
+# Environment variables and secrets
+.env
+.env*.local
+
+# Database backups and SQL dumps
+*.sql
+
+# Uploads directory (optional, or keep if you store assets)
+# uploads/
